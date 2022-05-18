@@ -1,0 +1,14 @@
+/* main CSS code */
+*{
+    font-family: 'Ubuntu', sans-serif;
+    /* font-family: 'Roboto Mono', monospace; */
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#top_heading{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
