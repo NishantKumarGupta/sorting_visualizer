@@ -1,5 +1,5 @@
 async function bubbleSort(){
-    console.log("Executing bubble Sort");
+    // console.log("Executing bubble Sort");
     const element = document.querySelectorAll(".bar");
     for(let i = 0; i < element.length - 1; i++){
         for(let j = 0; j < element.length - i - 1; j++){
