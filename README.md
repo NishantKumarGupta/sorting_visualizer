@@ -16,7 +16,7 @@ In the future I may add these sorting algorithms :
 
 TechStack Used: HTML, CSS, JavaScript, Bootstrap
 
-[You can checkout the website here!](https://nishantkumargupta.github.io/sorting_visualizer/) "Sorting Visualizer Website")
+[You can checkout the website here!](https://nishantkumargupta.github.io/sorting_visualizer/ "Sorting Visualizer Website")
 
 ![image](https://user-images.githubusercontent.com/67021346/173214973-4212b47c-1e0e-4b2e-af69-31b8400038ff.png)
 ![image](https://user-images.githubusercontent.com/67021346/173214992-81c30943-d7b8-4d91-9e7f-e968267dd71d.png)
